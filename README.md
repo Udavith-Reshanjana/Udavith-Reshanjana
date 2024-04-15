@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*6H5y7xRtYR95qAsQ_BAbDg.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Udavith Reshanjanna</h1>
-<h3 align="center">A level two undergraduate from Faculty of Science, University of Kelaniya, Sri Lanka</h3>
+<h3 align="center">A level three undergraduate from Faculty of Science, University of Kelaniya, Sri Lanka</h3>
 <img align="right" alt="Coding with Udavith" width="400" src="https://img.freepik.com/premium-vector/binary-coding-happy-programmer-man-with-laptop_51635-7269.jpg?w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udavith-reshanjana&label=Profile%20views&color=0e75b6&style=flat" alt="udavith-reshanjana" /> </p>
